@@ -1,0 +1,24 @@
+Drill report for voll_verteilt.kicad_pcb
+Created on Do 27 Jan 2022 22:02:06 CET
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'voll_verteilt-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0,300mm  0,0118"  (12 holes)
+    T2  0,400mm  0,0157"  (1 hole)
+
+    Total plated holes count 13
+
+
+Drill file 'voll_verteilt-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  2,200mm  0,0866"  (49 holes)
+
+    Total unplated holes count 49

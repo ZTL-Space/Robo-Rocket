@@ -1,0 +1,14 @@
+(footprint "pad" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 61EF2026)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp d2440fde-b38e-4963-bb2c-721076e3cefd)
+  )
+  (fp_text value "pad" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp fb8f0640-8d46-43b2-9772-4a56b6bcdbbd)
+  )
+  (pad "1" smd roundrect (at 0.2 0 90) (size 5 3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 2e888e29-c7a5-476a-96ad-5ae32d5a2c59))
+)
