@@ -35,9 +35,8 @@ lesen.
 ![image info](./contrib/129_Led1_hochbiegen.jpg)
 * Dann die Led-Köpfe wieder nach unten biegen, in Richtung Roboter-Kopf.
 ![image info](./contrib/139_Led1_2_Seite.jpg)
-* Die zwei Widerstände an den Markierungen ``R101`` und ``R102`` anlöten und die Beinchen mit dem Seitenschneider einkürzen.
-![image info](./contrib/151_R1_Pad1_anlöten.jpg)
-![image info](./contrib/169_R1_Draht_ab.jpg)
+* Die Beinchen der beiden Widerstände einkürzen und an den Markierungen ``R101`` und ``R102`` anlöten.
+![image info](./contrib/Widerstand_gekuerzt.jpg)
 * Zuletzt die beiden Leitungen am Batteriehalter festlöten, die Knopfzelle einsetzen und mit dem Schalter einschalten.
 ![image info](./contrib/177_Batt_Halter_RT_Plus.jpg)
 ![image info](./contrib/181_Batterie_einsetzen.jpg)
