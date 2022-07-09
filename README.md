@@ -27,7 +27,7 @@ lesen.
 ![image info](./contrib/101_Draht_rot_abisolieren.jpg)
 * Alle vier abisolierten Stellen mit Lötzinn verzinnen.
 ![image info](./contrib/109_Draht_sw_verzinnen.jpg)
-* Anlöten der Leitungen. Dazu die beiden Pads mit ``(+)`` und ``(-)`` an der Spitz der Rakete verzinnen und die Leitungen anlöten.
+* Anlöten der Leitungen. Dazu die beiden Pads mit ``(+)`` und ``(-)`` an der Spitz der Rakete verzinnen und die rote Leitung an ``(+)`` und die schwarze Leitung an ``(-)`` anlöten.
 ![image info](./contrib/119_Draht_sw_Badge_anlöten.jpg)
 * Verlöte die LEDs an den Markierungen ``D101`` und ``D102``. Das längere Beinchen muss auf das ``(+)`` Pad.
 ![image info](./contrib/127_Led2_Pad2_anlöten.jpg)
